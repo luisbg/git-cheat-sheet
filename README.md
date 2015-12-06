@@ -61,7 +61,7 @@
 </li>
 <li>git clone [url]
 <ul>
-<li>Downloads a project nd its entire version history</li>
+<li>Downloads a project and its entire version history</li>
 </ul>
 </li>
 </ul>
