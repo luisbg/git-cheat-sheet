@@ -1,3 +1,5 @@
+<html>
+<body>
 <div id="table-of-contents">
 <div id="text-table-of-contents">
 <ul>
@@ -409,3 +411,5 @@
 </ul>
 </div>
 </div>
+</body>
+</html>
