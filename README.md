@@ -346,6 +346,10 @@
 <ul>
 <li>Discards all history and changes back to the specified commit</li>
 </ul>
+<li><code>git rebase -i HEAD~number</code>
+<ul>
+<li>Reorder commits</li>
+</ul>
 </li>
 </ul>
 </li>
