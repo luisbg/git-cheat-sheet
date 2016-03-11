@@ -167,7 +167,7 @@
 </li>
 <li><code>git commit &#x2013;amend</code>
 <ul>
-<li>Changing the history, of the HEAD commit</li>
+<li>Changing the history, edit the HEAD commit</li>
 </ul>
 </li>
 </ul>

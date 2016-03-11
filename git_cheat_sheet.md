@@ -60,7 +60,7 @@
   * git commit -m "[descriptive message]"
     * Records file snapshots permanently in version history
   * git commit --amend
-    * Changing the history, of the HEAD commit
+    * Changing the history, edit the HEAD commit
 
  * Group changes
   * git branch
