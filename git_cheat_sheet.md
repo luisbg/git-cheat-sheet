@@ -61,6 +61,9 @@
     * Records file snapshots permanently in version history
   * git commit --amend
     * Changing the history, edit the HEAD commit
+  * git commit --fixup=[sha]; git rebase -i --autosquash
+    * Changing the history, editing commits other than HEAD
+
 
  * Group changes
   * git branch

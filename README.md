@@ -170,6 +170,11 @@
 <li>Changing the history, edit the HEAD commit</li>
 </ul>
 </li>
+<li><code>git commit --fixup=[sha]; git rebase -i --autosquash</code>
+<ul>
+<li>Changing the history, editing commits other than HEAD</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>Group changes<a id="sec-4" name="sec-4">
