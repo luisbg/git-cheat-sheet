@@ -59,9 +59,11 @@ Record changes to git. Default editor will open for a commit message
 *** git commit -m "[descriptive message]"
 Records file snapshots permanently in version history
 *** git commit --amend
-Changing the history, edit the HEAD commit
+Change the history, editing the HEAD commit
 *** git commit --fixup=[sha]; git rebase -i --autosquash
-Changing the history, editing commits other than HEAD
+Change the history, editing a specific commit other than HEAD
+*** git rebase -i HEAD~5
+Change the history, reword/edit/squash/fix a group of latest commits
 
 ** Group changes
 *** git branch

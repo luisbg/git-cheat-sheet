@@ -167,12 +167,17 @@
 </li>
 <li><code>git commit &#x2013;amend</code>
 <ul>
-<li>Changing the history, edit the HEAD commit</li>
+<li>Change the history, editing the HEAD commit</li>
 </ul>
 </li>
 <li><code>git commit --fixup=[sha]; git rebase -i --autosquash</code>
 <ul>
-<li>Changing the history, editing commits other than HEAD</li>
+<li>Change the history, editing a specific commit other than HEAD</li>
+</ul>
+</li>
+<li><code>git rebase -i HEAD~5</code>
+<ul>
+<li>Change the history, reword/edit/squash/fix a group of latest commits</li>
 </ul>
 </li>
 </ul>
