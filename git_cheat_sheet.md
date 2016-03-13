@@ -133,6 +133,8 @@
     * Shows content differences between two branches
   * git show [commit]
     * Outputs metadata and content changes of the specified commit
+  * git rev-parse --short HEAD
+    * Check sha1/unique name of HEAD commit
 
  * Redo commits
   * git reset

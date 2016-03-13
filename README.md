@@ -338,6 +338,11 @@
 <li>Outputs metadata and content changes of the specified commit</li>
 </ul>
 </li>
+<li><code>git rev-parse --short HEAD</code>
+<ul>
+<li>Check sha1/unique name of HEAD commit</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>Redo commits<a id="sec-9" name="sec-9">
