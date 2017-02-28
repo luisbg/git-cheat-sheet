@@ -323,7 +323,7 @@
 <li>See what the author has worked on in the last week</li>
 </ul>
 </li>
-<li><code>git log &#x2013;no-merges master..</code>
+<li><code>git log &#x2013;&#x2013;no-merges master..</code>
 <ul>
 <li>See only changes in this branch</li>
 </ul>
