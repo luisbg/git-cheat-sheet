@@ -110,7 +110,7 @@
 <li>Tell git not to track the file anymore</li>
 </ul>
 </li>
-<li><code>git diff &#x2013;staged</code>
+<li><code>git diff --cached</code>
 <ul>
 <li>Show what has been added to the index via git add but not yet committed</li>
 </ul>
